@@ -1,0 +1,11 @@
+# Vivado generated files
+.settings/
+runs/
+*.log
+*.jou
+*.xpr
+*.bit
+*.bin
+*.vcd
+*.xdc
+*.tcl
