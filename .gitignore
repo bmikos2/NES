@@ -9,3 +9,7 @@ runs/
 *.vcd
 *.xdc
 *.tcl
+*.wpc
+*.cache
+*.hw
+*.lpr
