@@ -1,0 +1,14 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1744861614,verilog,,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,,blk_mem_gen_0,,uvm,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1744947731,verilog,,,,dist_mem_gen_0,,uvm,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sim_1/new/cpu_distributed_tb.sv,1744957294,systemVerilog,,,,cpu_distributed_tb,,uvm,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sim_1/new/cpu_testbench.sv,1744909931,systemVerilog,,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sim_1/new/cpu_distributed_tb.sv,,cpu_testbench,,uvm,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65.vhd,1744861441,vhdl,,,,t65,,,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65_ALU.vhd,1744861441,vhdl,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65.vhd,,,t65_alu,,,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65_MCode.vhd,1744861441,vhdl,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65.vhd,,,t65_mcode,,,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65_Pack.vhd,1744861441,vhdl,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65.vhd;C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65_ALU.vhd;C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/imports/T65/T65_MCode.vhd,,,t65_pack,,,,,,,,
+C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sources_1/new/NES_top.sv,1744861526,systemVerilog,,C:/Users/mikos/NES/NES-FPGA/NES-FPGA.srcs/sim_1/new/cpu_testbench.sv,,NES_top,,uvm,,,,,,

@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../NES-FPGA.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../NES-FPGA.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" \
+
+sv xil_defaultlib  \
+"../../../../NES-FPGA.srcs/sources_1/new/NES_top.sv" \
+"../../../../NES-FPGA.srcs/sim_1/new/cpu_testbench.sv" \
+"../../../../NES-FPGA.srcs/sim_1/new/cpu_distributed_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
